@@ -1,0 +1,7 @@
+执行指令添加文件->提交文件->推送文件
+
+git add .
+
+git commit -m "提交test1.html"
+
+git push -u origin master
